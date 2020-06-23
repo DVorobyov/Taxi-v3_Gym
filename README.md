@@ -1,7 +1,7 @@
 # Q-learning Taxi-v3
 This is the program of learning agent from the game <b>"Taxi-v3"</b>, which is situated in the library called <b>"Gym"</b>. Reinforcement 
 learning, scilicet Q-learning algorithm, applied. Reinfocement learning is an area of machine learning. I used this algorithm to teach 
-taxi get to the right points with minimum loss of scores. This is how the field in Taxi-v3 looks like:
+taxi to get to the right points with minimum loss of scores. This is how the field in Taxi-v3 looks like:
 <p align="center">
 <img src="https://www.novatec-gmbh.de/wp-content/uploads/ezgif.com-video-to-gif.gif" width="150">
 </p>
